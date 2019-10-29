@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\bin\Debug\KiemTraSQL.exe.config
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\bin\Debug\KiemTraSQL.exe
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\bin\Debug\KiemTraSQL.pdb
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\obj\Debug\KiemTraSQL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\obj\Debug\KiemTraSQL.Form1.resources
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\obj\Debug\KiemTraSQL.Properties.Resources.resources
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\obj\Debug\KiemTraSQL.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\obj\Debug\KiemTraSQL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\obj\Debug\KiemTraSQL.exe
+C:\Users\Admin\source\repos\KiemTraSQL\KiemTraSQL\obj\Debug\KiemTraSQL.pdb
