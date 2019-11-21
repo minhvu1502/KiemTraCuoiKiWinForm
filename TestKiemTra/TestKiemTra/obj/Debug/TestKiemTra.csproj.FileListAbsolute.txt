@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\bin\Debug\TestKiemTra.exe.config
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\bin\Debug\TestKiemTra.exe
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\bin\Debug\TestKiemTra.pdb
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.Properties.Resources.resources
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.exe
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.pdb
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\TestKiemTra\TestKiemTra\obj\Debug\TestKiemTra.frm_TestKiemTra.resources
